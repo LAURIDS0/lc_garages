@@ -2,6 +2,10 @@
 
 Public, job-restricted and personal vehicle garages for FiveM/Qbox.
 
+## Documentation
+
+Read it on [lc-development.com/docs](https://lc-development.com/docs/#/lc_garages).
+
 ## Core behaviour
 
 Each garage uses **one box zone**.
